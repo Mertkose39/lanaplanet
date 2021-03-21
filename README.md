@@ -11,3 +11,15 @@ versaceplanets is a project based on MovieStarPlanet. In the game, you play as t
     <title>lanaplanet</title>
 <style></style></head>
 <body>
+
+
+    <header>
+
+        <section>
+            <div class="hero" style="height: 100%; transform: matrix(1, 0, 0, 1, 0, 0); width: 100%;">
+                <!-- <img src="https://www.tapeciarnia.pl/tapety/normalne/tapeta-plaza-el-matador-beach-w-malibu.jpg" alt=""> -->
+                <!-- <h1 class="headline">HARD</h1> -->
+                
+            </div>
+        </section>
+    </header>
