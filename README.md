@@ -1,3 +1,4 @@
+
 <style>
 body {
   background-image: url('https://i.imgur.com/U3bmh0T.png');
@@ -6,4 +7,4 @@ body {
   background-size: 100% 100%;
 }
 </style>
-<button type="reset" name="PlayButton" formtarget="_top">Play</button>
+<button class="btn">Przycisk</button>
