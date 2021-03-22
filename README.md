@@ -6,3 +6,4 @@ body {
   background-size: 100% 100%;
 }
 </style>
+<button type="reset" name="PlayButton" formtarget="_self">Play</button>
